@@ -1,0 +1,63 @@
+--first--
+image
+name
+email
+mobile no
+pincode
+state
+city
+gender
+dob
+password
+confirm password
+
+--second--
+residence no
+office no
+whatsapp no
+pan no
+pan front image
+pan back image
+adhar no
+adhar fornt image
+adhar back image
+
+--third--
+Achievement 1
+Achievement 2
+Achievement 3
+Reference 1 name
+Reference 1 occupation
+Reference 1 address
+Reference 1 mobile
+Reference 2 name
+Reference 2 occupation
+Reference 2 address
+Reference 2 mobile
+
+--fourth--
+No of towns where customers come from
+name of towns where customers come form
+specify you relation
+name of the relative
+current status
+residental proof
+residental address
+
+
+--fifth--
+current bussiness
+business type
+business name
+address
+pincode
+state 
+city 
+business years 
+dimensions
+business logo
+infrastructure available
+current income 
+no of customers 
+is it popular
+customers served

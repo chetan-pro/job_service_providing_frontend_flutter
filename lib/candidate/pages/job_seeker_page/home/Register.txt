@@ -1,0 +1,7 @@
+Register
+login
+profile 
+branch add,edit,delete
+change password
+service add,edit,delete
+

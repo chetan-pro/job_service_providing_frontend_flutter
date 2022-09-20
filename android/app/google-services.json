@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "920416438534",
+    "project_id": "hindustaan-job-new",
+    "storage_bucket": "hindustaan-job-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920416438534:android:16ce91bac84a98f9fdf687",
+        "android_client_info": {
+          "package_name": "com.hindustaanjobs.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920416438534-v6lqmj94ndg92dmcalp6vfu38hvtb7om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI_u8Dle6cQQ4U5gxOKyZt60VcVOEKRmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920416438534-v6lqmj94ndg92dmcalp6vfu38hvtb7om.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

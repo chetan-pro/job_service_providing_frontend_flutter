@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_id" translatable="false">high_importance_channel</string>
+    <string name="app_name">Hindustan-jobs</string>
+    <string name="facebook_app_id">603730757378494</string>
+    <string name="fb_login_protocol_scheme">fb603730757378494</string>
+</resources>
